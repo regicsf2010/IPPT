@@ -1,0 +1,13 @@
+#/usr/include/qt4/Qt
+#/usr/include/qt4/QtCore
+#/usr/include/qt4/QtDesigner
+#/usr/include/qt4/QtGui
+#/usr/include/qt4/
+#/usr/include/c++/4.4
+#/usr/include/c++/4.4/backward
+#/usr/lib/gcc/i486-linux-gnu/4.4/include
+#/usr/lib/gcc/i486-linux-gnu/4.4/include-fixed
+#/home/10088000201/TerraLib/src/terralib/kernel
+#/home/10088000201/TerraLib/src/terralib/image_processing
+#/home/10088000201/TerraLib/src/terralib/image_processing/data_structs
+#/usr/include
